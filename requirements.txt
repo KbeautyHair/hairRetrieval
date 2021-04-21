@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-image
+pillow
+tqdm
+scikit-learn
+psutil
+datetime
+scikit-image
+albumentations
